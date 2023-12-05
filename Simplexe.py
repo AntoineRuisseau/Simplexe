@@ -185,7 +185,6 @@ class Simplexe:
 
         return False
     
-    
     def iteration(self):
         # ----- Recherche du pivot ------ #
             self.tmp = []
